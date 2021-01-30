@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_folder.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download_menu.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_download_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_word.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_dialog_layout.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\upload_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_eyes.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_close_eyes.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\anim_image_rotation.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\anim\\image_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otp.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_bg.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_allsubjects.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_allsubjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_no_data.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_no_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subjectdocuments.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_subjectdocuments.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_disable_bg.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\disable_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_books.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enable_bg.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\enable_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_open.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_subjects_layout.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\subjects_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_download.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\fragment_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_color.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shelves.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_shelves.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_mark.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_check_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_document_item.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\document_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ppt.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_ppt.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_online_reading.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\ic_online_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snistlogo.png.flat",
+        "source": "C:\\Users\\janji\\StudioProjects\\SNISTFORUM\\app\\src\\main\\res\\drawable\\snistlogo.png"
+    }
+]

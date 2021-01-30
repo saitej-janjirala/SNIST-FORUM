@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">443269491618-as1u07us3d1fkksbqkrqd3bg5c8tebm6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">443269491618</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYVDyOHXJrBKb7eLtbCSwYaLP0Us_umS8</string>
+    <string name="google_app_id" translatable="false">1:443269491618:android:77f7be65b3bdb4be2d20fb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYVDyOHXJrBKb7eLtbCSwYaLP0Us_umS8</string>
+    <string name="google_storage_bucket" translatable="false">snistforum-afcd0.appspot.com</string>
+    <string name="project_id" translatable="false">snistforum-afcd0</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SNIST-FORUM</string>
+    <string name="splashlogo">splashlogo</string>
+    <string name="snist_forum">SNIST FORUM</string>
+    <string name="enter_10_digit_mobile_number">Enter 10 digit mobile number</string>
+    <string name="verify">VERIFY</string>
+    <string name="getotp">GET OTP</string>
+    <string name="no_internet_connection">No internet Connection</string>
+    <string name="or">OR</string>
+    <string name="login_as_admin">Login as Admin</string>
+    <string name="enter_otp_here">enter otp here</string>
+    <string name="enter_admin_e_mail">Enter admin E-mail</string>
+    <string name="enter_admin_password">Enter admin password</string>
+    <string name="enter_admin_username">Enter admin username</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_subjects">Add Subjects</string>
+    <string name="no_data_available_add_subjects_to_show">Add subjects to access Faster</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="upload_subjects">Upload Subject</string>
+    <string name="enter_subject_name">Enter Subject Name</string>
+    <string name="select_documents">select documents</string>
+    <string name="okay">okay</string>
+    <string name="files_uploading_please_wait">files uploading please wait</string>
+    <string name="update_subject">Update Subject</string>
+    <string name="upload_more_subjects">upload more subjects</string>
+    <string name="no_documents_available">no documents available</string>
+    <string name="downloads">Downloads</string>
+</resources>
