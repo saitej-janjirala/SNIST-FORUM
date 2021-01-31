@@ -1,6 +1,5 @@
 # SNIST-FORUM
-# A simple app where admin can upload subjects and update them and all the users can 
-download and view them.
+# A simple app where admin can upload subjects and update them and all the users can download and view them.
 
 
 ## screenshots
