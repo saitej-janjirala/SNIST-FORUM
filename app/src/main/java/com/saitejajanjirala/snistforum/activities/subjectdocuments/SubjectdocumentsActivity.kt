@@ -27,6 +27,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.firestore.FirebaseFirestore
+import com.saitejajanjirala.snistforum.BuildConfig
 import com.saitejajanjirala.snistforum.MyApplication
 import com.saitejajanjirala.snistforum.R
 import com.saitejajanjirala.snistforum.adapter.DocumentAdpater
@@ -35,7 +36,6 @@ import com.saitejajanjirala.snistforum.models.Document
 import com.saitejajanjirala.snistforum.models.FirebaseDocumentFile
 import com.saitejajanjirala.snistforum.utils.Keys
 import com.saitejajanjirala.snistforum.utils.Toaster
-import io.grpc.android.BuildConfig
 import java.io.File
 import java.util.*
 import kotlin.collections.ArrayList
