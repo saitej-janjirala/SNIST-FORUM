@@ -32,7 +32,6 @@ class AllsubjectsActivity : AppCompatActivity() ,SubjectsAdapter.onItemClickList
     private lateinit var subjectsList: ArrayList<AddedSubject>
     private lateinit var progressBar: ProgressBar
     private lateinit var mLayoutManager: LinearLayoutManager
-    private lateinit var lastDocumentSnapshot: DocumentSnapshot
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_allsubjects)
@@ -40,13 +39,13 @@ class AllsubjectsActivity : AppCompatActivity() ,SubjectsAdapter.onItemClickList
         supportActionBar?.setHomeButtonEnabled(true)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         initView()
-        setUpViewModel()
-        setUpListeners()
         subjectsList = ArrayList()
         mLayoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
         subjectsAdapter = SubjectsAdapter(this, subjectsList, "add",this)
         allSubjectsRecyclerView.adapter = subjectsAdapter
         allSubjectsRecyclerView.layoutManager = mLayoutManager
+        setUpViewModel()
+        setUpListeners()
         fetchSubjects()
     }
 
@@ -74,28 +73,18 @@ class AllsubjectsActivity : AppCompatActivity() ,SubjectsAdapter.onItemClickList
                 Toaster.show(this,"subject added sucessfully")
             }
         })
-        allSubjectsRecyclerView.addOnScrollListener(object : RecyclerView.OnScrollListener() {
-            override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) {
-                super.onScrolled(recyclerView, dx, dy)
-                if (dy > 0) { //check for scroll down
-                    val lastVisibleItemPosition =
-                        mLayoutManager.findLastCompletelyVisibleItemPosition()
-                    if (lastVisibleItemPosition != RecyclerView.NO_POSITION &&
-                        lastVisibleItemPosition == subjectsAdapter.itemCount - 1
-                    ) {
-                        if (Network.isNetworkConnected(this@AllsubjectsActivity)) {
-                            if (progressBar.visibility == View.GONE) {
-                                loadMore()
-                            }
-                        }
-                    }
-                }
+    }
+    abstract inner class PaginationScrollListener(private val layoutManager: LinearLayoutManager) :
+            RecyclerView.OnScrollListener() {
+        override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) {
+            super.onScrolled(recyclerView, dx, dy)
+            val totalItemCount = layoutManager.itemCount
+            var lastVisibleItemPosition = layoutManager.findLastVisibleItemPosition()
+            if (totalItemCount - lastVisibleItemPosition == 1) {
+                loadMoreItems()
             }
-
-            override fun onScrollStateChanged(recyclerView: RecyclerView, newState: Int) {
-                super.onScrollStateChanged(recyclerView, newState)
-            }
-        })
+        }
+        protected abstract fun loadMoreItems()
     }
 
     private fun setUpViewModel() {
@@ -115,12 +104,10 @@ class AllsubjectsActivity : AppCompatActivity() ,SubjectsAdapter.onItemClickList
         val db = FirebaseFirestore.getInstance()
         db.collection("subjects")
             .orderBy("name")
-            .limit(25)
             .get()
             .addOnSuccessListener {
                 allSubjectsViewModel.isLoading.postValue(false)
                 val list = ArrayList<AddedSubject>()
-                setLastDocument(it.documents[it.documents.size - 1])
                 for (i in it.documents) {
                     i.data?.get("name")?.let { sname ->
                         if (sname is String) {
@@ -151,40 +138,6 @@ class AllsubjectsActivity : AppCompatActivity() ,SubjectsAdapter.onItemClickList
             emptyLayout.visibility = View.VISIBLE
         }
         subjectsAdapter.notifyDataSetChanged()
-    }
-
-    private fun setLastDocument(documentSnapshot: DocumentSnapshot) {
-        lastDocumentSnapshot = documentSnapshot
-    }
-
-    private fun loadMore() {
-        if (lastDocumentSnapshot != null) {
-            allSubjectsViewModel.isLoading.value = true
-            val db = FirebaseFirestore.getInstance()
-            db.collection("subjects")
-                .orderBy("name")
-                .startAfter(lastDocumentSnapshot)
-                .get()
-                .addOnSuccessListener {
-                    allSubjectsViewModel.isLoading.postValue(false)
-                    val list = ArrayList<AddedSubject>()
-                    for (i in it.documents) {
-                        i.data?.get("name")?.let { sname ->
-                            if (sname is String) {
-                                val obj = AddedSubject(sname)
-                                list.add(obj)
-                            }
-                        }
-                        if(i==it.documents.last()){
-                            setLastDocument(i)
-                        }
-                    }
-                }
-                .addOnFailureListener {
-                    allSubjectsViewModel.isLoading.postValue(false)
-                    allSubjectsViewModel.message.postValue(it.message)
-                }
-        }
     }
 
     override fun onItemClicked(position: Int) {
